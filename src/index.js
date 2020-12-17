@@ -1,5 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Lista from './App';
+import App from './App';
 
-ReactDOM.render(<Lista />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root')); 
