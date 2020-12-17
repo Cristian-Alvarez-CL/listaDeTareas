@@ -11,7 +11,7 @@ import "./styles/App.css";
 
 function DespliegeTarea({ todo, index, deleteTarea }) {
   return (
-    <div className="todo">
+    <div className="container tarjeta">
       {todo.text}
       <div>
         <button
