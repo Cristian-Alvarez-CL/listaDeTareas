@@ -49,7 +49,7 @@ function Formulario({ agregarTarea }) {
   );
 }
 
-function App2() {
+function App() {
   const [todos, setState] = useState([
     {
       text: "Tarea 1",
@@ -80,4 +80,4 @@ function App2() {
   );
 }
 
-export default App2;
+export default App;
